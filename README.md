@@ -46,3 +46,11 @@
  
  &nbsp;
  
+### Grafico correlazione lineare specie
+![Grafico correlazione lineare specie](Corr_taxa.png)
+### Grafico correlazione lineare trattamento colturale
+![Grafico correlazione lineare trattamento](Graph_thinned.png)
+
+### Valori correlazione lineare
+#### p-Value = 9.454e-10
+#### R^2 = 0.3188 (multiple) - 0.3118 (adjusted)
