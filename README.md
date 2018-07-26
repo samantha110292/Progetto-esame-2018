@@ -7,6 +7,9 @@
 ### Grafico esplorativo della densità tra diametro e specie
 ![Densità tra diametro e specie](Graph_expl_diam_taxa.png)
 &nbsp;
+### Grafico esplorativo della densità tra diametro e trattamento colturale
+![Densità tra diametro e trattamento](Exp_thined.png)
+&nbsp;
 ### Metriche generali
  |  **diam**   |     **h**      |  **taxa**  | **thinned** |
  |-------------|----------------|------------|-------------|
