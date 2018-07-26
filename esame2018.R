@@ -37,10 +37,8 @@ print(pm)
 ### Correlazione lineare
 pm = ggpairs(data = data_gr,
              columns = c(1:2),
-             # upper = list(continuous = "density"),
-             # lower = list(combo = "facetdensity"),
-             mapping = aes(alpha = 0.20, color = thinned),
-             title = "Grafico correlazione lineare diametro e altezza") + theme_bw()
+             mapping = aes(alpha = 0.20, color = taxa),
+             title = "Grafico correlazione lineare diametro e altezza su specie") + theme_bw()
 print(pm)
 
 ### P-Value e R^2
